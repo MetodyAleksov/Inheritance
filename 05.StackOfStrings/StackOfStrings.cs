@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CustomRandomList
+namespace CustomStack
 {
     public class StackOfStrings : Stack<string>
     {
