@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace CustomRandomList
 {
@@ -9,9 +8,5 @@ namespace CustomRandomList
         {
             Console.WriteLine("Hello World!");
         }
-    }
-    public class RandomList<T> : List<T>
-    {
-
     }
 }
